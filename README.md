@@ -4,7 +4,7 @@
 </div>
 
 ```java
-public class Pace extends Person implements YouTuber, Gamer, Developer {
+public class Pace extends Person implements Foodie, Gamer, Developer {
     @Override
     public void aboutMe() {
         public String funFact = "I like to play piano";
