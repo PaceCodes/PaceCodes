@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Website](Pace#6593)	
-<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www./github.com/PaceSomesh">Pace</a>!</h1>
+[![Discord](Pace#6593)	
+<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www/github.com/PaceSomesh">Pace</a>!</h1>
 </div>
 
 ```java
@@ -42,7 +42,7 @@ public class Pace extends Person implements YouTuber, Gamer, Developer {
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/New_York
+⌚︎ Time Zone: India / GMT + 5:30
 
 💬 Programming Languages: 
 Java                               7 hrs 15 mins       ████████████████████░░░░░   80.87% 
@@ -72,13 +72,4 @@ Windows                            8 hrs 58 mins       ████████�
 
 </details>
 
-<details>
-  	<summary>:zap: GitHub Activity</summary>
-
-  	<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/kckarnige/custom-server-logos/pull/2) in [kckarnige/custom-server-logos](https://github.com/kckarnige/custom-server-logos)
-  	<!--END_SECTION:activity-->
-  
-</details>
-
-Discord :discord: = Pace#6593
+Discord / How to contact me = Pace#6593
