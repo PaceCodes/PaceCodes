@@ -13,7 +13,7 @@ public class Pace extends Person implements Foodie, Gamer, Developer {
     @Override
     public void codingStuff() {
         public String[] workingOn = ["Melon-Network", "Pluto Client"];
-        public String[] learning = ["Java", "Discord.JS", "Jekyll/Liquid"];
+        public String[] learning = ["Java", "Discord.JS / node.js", "Python"];
         public String tryingTo = "Make good GUIs in Minecraft Clients / Mods / Pluguins";
     }
 }
