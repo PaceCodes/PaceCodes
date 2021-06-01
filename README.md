@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Discord](Pace#6593)	
-<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www/github.com/PaceSomesh">Pace</a>!</h1>
+<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.github.com/PaceSomesh">Pace</a>!</h1>
 </div>
 
 ```java
