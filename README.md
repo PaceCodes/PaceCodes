@@ -71,4 +71,4 @@ Windows                            8 hrs 58 mins       ████████�
 
 </details>
 
-Discord / How to contact me = Pace#6593
+Discord / How to contact me = Pace.#0001
