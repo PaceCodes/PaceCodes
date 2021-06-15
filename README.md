@@ -12,7 +12,7 @@ public class Pace extends Person implements Foodie, Gamer, Developer {
     
     @Override
     public void codingStuff() {
-        public String[] workingOn = ["Melon-Network", "Pluto Client"];
+        public String[] workingOn = ["Melon-Network", "Pluto Client", "Arial Client"];
         public String[] learning = ["Java", "Discord.JS / node.js", "Python"];
         public String tryingTo = "Make good GUIs in Minecraft Clients / Mods / Plugins";
     }
@@ -55,8 +55,8 @@ Eclipse/Intellij Idea              8 hrs 30 mins       ████████�
 PyCharm/Other IDE(s)               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
 
 🐱‍💻 Projects: 
-Melon-Network/Pluto Client         8 hrs 26 mins       ███████████████████████░░   94.01% 
-Private Client                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
+Arial Client/Pluto Client         8 hrs 26 mins       ███████████████████████░░   94.01% 
+Melon-Network                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
 Other Coding                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 💻 Operating System: 
