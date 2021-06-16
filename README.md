@@ -4,18 +4,32 @@
 </div>
 
 ```java
-public class Pace extends Person implements Foodie, Gamer, Developer {
-    @Override
-    public void aboutMe() {
-        public String funFact = "I like to play piano";
-    }
+public class Pace extends Person implements Gamer, Developer {
+
+	@Override
+	public String getName() {
+		return "Somesh";
+	}
+	
+	@Override
+	public List<String> getAliases() {
+		return Arrays.asList("Pace", "PaceSomesh");
+	}
+
+	@Override
+	public String aboutme() {
+		return "I like to play piano" +
+		"\n" + "I like to code";
+	}
     
-    @Override
-    public void codingStuff() {
-        public String[] workingOn = ["Melon-Network", "Pluto Client", "Arial Client"];
-        public String[] learning = ["Java", "Discord.JS / node.js", "Python"];
-        public String tryingTo = "Make good GUIs in Minecraft Clients / Mods / Plugins";
-    }
+	@Override
+	public void codingStuff() {
+		String[] workingOn = ["Arial-Client", "Melon-Network", "PlutoClient"];
+		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
+		String prioritizedProject = "Arial-Client";
+		String tryingTo = "Make good GUIs in minecraft clients /plugins /mods";
+	}
+	
 }
 ```
 
