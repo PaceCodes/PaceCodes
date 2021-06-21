@@ -16,13 +16,13 @@
 		return Arrays.asList("Pace", "PaceSomesh");
 	}
 
-    public Pace() {
-    super("Pace", "India");
+        public Pace() {
+        super("Pace", "India");
 
-    this.addLanguage("Java", "Python", "Javascript", "Kotlin");
-    this.addExperience("3 Years+(java)", "2years+(python)", "6months+(kotlin)", "1 year (js)", "Total 5 years+");
-  }
-}
+        this.addLanguage("Java", "Python", "Javascript", "Kotlin");
+        this.addExperience("3 Years+(java)", "2years+(python)", "6months+(kotlin)", "1 year (js)", "Total 5 years+");
+     }
+   }
 
 	@Override
 	public String aboutme() {
