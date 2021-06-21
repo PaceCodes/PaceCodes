@@ -4,7 +4,7 @@
 </div>
 
 ```java
-public class Pace extends Person implements Gamer, Developer {
+  public class Pace extends Human, GitHubUser implements Gamer, Developer {
 
 	@Override
 	public String getName() {
@@ -16,10 +16,18 @@ public class Pace extends Person implements Gamer, Developer {
 		return Arrays.asList("Pace", "PaceSomesh");
 	}
 
+    public Pace() {
+    super("Pace", "India");
+
+    this.addLanguage("Java", "Python", "Javascript", "Kotlin");
+    this.addExperience("3 Years+(java)", "2years+(python)", "6months+(kotlin)", "1 year (js)", "Total 5 years+");
+  }
+}
+
 	@Override
 	public String aboutme() {
 		return "I like to play piano" +
-		"\n" + "I like to code";
+		"\n" + "I like to code Java";
 	}
     
 	@Override
@@ -30,6 +38,29 @@ public class Pace extends Person implements Gamer, Developer {
 		String tryingTo = "Make good GUIs in minecraft clients /plugins /mods";
 	}
 	
+} 
+
+
+public abstract class GitHubUser {
+
+  @Getter private final String username;
+  @Getter private final String country;
+
+  private Set<String> languages = new HashSet<>();
+  private Set<String> experiences = new HashSet<>();
+
+  public GitHubUser(String username, String country) {
+      this.name = username;
+      this.country = country;
+  }
+
+  public void addLanguage(String... language) {
+      this.languages.addAll(language);
+  }
+  
+  public void addExperience(String... experience) {
+      this.experiences.addAll(experience);
+  }
 }
 ```
 
