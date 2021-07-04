@@ -31,10 +31,8 @@
 	}
     
 	@Override
-	public void codingStuff() {
-		String[] workingOn = ["Arial-Client", "Melon-Network", "PlutoClient"];
+	public void codingStuff()null
 		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
-		String prioritizedProject = "Arial-Client";
 		String tryingTo = "Make good GUIs in minecraft clients /plugins /mods";
 	}
 	
@@ -83,7 +81,6 @@ public abstract class GitHubUser {
 <!--
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: India / GMT + 5:30
