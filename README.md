@@ -4,7 +4,7 @@
 </div>
 
 ```java
-  public class Pace extends Human, GitHubUser implements Gamer, Developer {
+  public class Pace extends Human implements Gamer, Developer {
 
 	@Override
 	public String getName() {
@@ -39,7 +39,7 @@
 } 
 
 
-public abstract class GitHubUser {
+public abstract class Human {
 
   @Getter private final String username;
   @Getter private final String country;
