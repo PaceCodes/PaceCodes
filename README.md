@@ -97,3 +97,4 @@ public abstract class Human {
 </details>
 
 Discord / How to contact me = Pace.#0001
+Do not Try to DM straight it's off L
