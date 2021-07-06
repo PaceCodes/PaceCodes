@@ -85,11 +85,6 @@ public abstract class Human {
 ```text
 ⌚︎ Time Zone: India / GMT + 5:30
 ```
-![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceSomesh&show_icons=true&theme=vision-friendly-dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceSomesh&theme=vision-friendly-dark)
-
 <!--END_SECTION:waka-->
 
 ---
