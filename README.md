@@ -87,6 +87,8 @@ public abstract class Human {
 ```
 <!--END_SECTION:waka-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceSomesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 </details>
