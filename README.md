@@ -31,7 +31,7 @@
 	}
     
 	@Override
-	public void codingStuff()null
+	public void codingStuff() {
 		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
 		String tryingTo = "Make good GUIs in minecraft clients /plugins /mods";
 	}
