@@ -13,11 +13,11 @@
 	
 	@Override
 	public List<String> getAliases() {
-		return Arrays.asList("Pace", "PaceSomesh");
+		return Arrays.asList("Pace", "My Name");
 	}
 
         public Pace() {
-        super("Pace", "India");
+        super("Pace", "Earth");
 
         this.addLanguage("Java", "Python", "Javascript", "Kotlin");
         this.addExperience("3 Years+(java)", "2years+(python)", "6months+(kotlin)", "1 year (js)", "Total 5 years+");
@@ -47,9 +47,9 @@ public abstract class Human {
   private Set<String> languages = new HashSet<>();
   private Set<String> experiences = new HashSet<>();
 
-  public GitHubUser(String username, String country) {
+  public GitHubUser(String username, String placeilive) {
       this.name = username;
-      this.country = country;
+      this.country = placeilive;
   }
 
   public void addLanguage(String... language) {
