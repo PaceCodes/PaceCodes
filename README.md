@@ -88,9 +88,8 @@ public abstract class Human {
 <!--END_SECTION:waka-->
 <div align="center">
 	
-![PaceCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&theme=vision-friendly-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/PaceCodes)
+[![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceCodes)
 
 ---
 
