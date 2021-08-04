@@ -90,7 +90,9 @@ public abstract class Human {
 	
 [![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/PaceCodes)
 [![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceCodes)
+### Profile Visits 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pacecodes.pacecodes)
 ---
 
 </details>
