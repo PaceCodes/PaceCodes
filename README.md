@@ -47,7 +47,7 @@ public abstract class Human {
   private Set<String> languages = new HashSet<>();
   private Set<String> experiences = new HashSet<>();
 
-  public GitHubUser(String username, String placeilive) {
+  public Human(String username, String placeilive) {
       this.name = username;
       this.country = placeilive;
   }
