@@ -89,13 +89,13 @@ public abstract class Human {
 <div align="center">
 	
 [![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/PaceCodes)
-[![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceCodes)
+[![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceSkids&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceSkids)
 ### Profile Visits 
 
-![Visitors](https://komarev.com/ghpvc/?username=PaceCodes&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=PaceSkids&color=blueviolet)
 ---
 
 </details>
 
-Discord / How to contact me = Pace.#0001
-Do not Try to DM straight it's off L
+Discord / How to contact me = no u can't 
+
