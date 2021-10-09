@@ -82,9 +82,9 @@ public abstract class Human {
 
 <!--START_SECTION:waka-->
 
-```text
-⌚︎ When to contact me: After when I sleep or before I wake up.
-```
+
+
+
 <!--END_SECTION:waka-->
 <div align="center">
 	
