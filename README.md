@@ -97,5 +97,5 @@ public abstract class Human {
 
 </details>
 
-Discord / How to contact me = no u can't 
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=pacecodes&theme=react-dark)
 
