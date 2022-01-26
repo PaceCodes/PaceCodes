@@ -32,8 +32,8 @@
     
 	@Override
 	public void codingStuff() {
-		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
-		String tryingTo = "Make good GUIs in minecraft clients /plugins /mods";
+		String[] learning = ["Java", "Kotlin", "ReactJS"];
+		String tryingTo = "Make good Android applications & websites";
 	}
 	
 } 
