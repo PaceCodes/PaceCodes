@@ -62,18 +62,9 @@ public abstract class Human {
 }
 ```
 
-<!-- 
-**Languages and Tools:**
-
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=PaceCodes&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascripts,dart,reactjs&includeNames=true"></p>
 
-<!--START_SECTION:waka-->
-
-
-
-
-<!--END_SECTION:waka-->
 <div align="center">
 	
 [![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/PaceCodes) 
