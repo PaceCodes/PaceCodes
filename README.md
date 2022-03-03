@@ -65,20 +65,8 @@ public abstract class Human {
 <!-- 
 **Languages and Tools:**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
-<img align="left" alt="Affinity Designer" width="26px" src="https://simpleicons.org/icons/affinitydesigner.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Unity" width="26px" src="https://gallery.leapmotion.com/wp-content/uploads/2016/12/unity-logo.png" />
-<img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
-<img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" /> 
--->
-
-<!--
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=PaceCodes&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascripts,dart,reactjs&includeNames=true"></p>
 
 <!--START_SECTION:waka-->
 
@@ -89,7 +77,7 @@ public abstract class Human {
 <div align="center">
 	
 [![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/PaceCodes) 
-[![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceCodes)
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceCodes)
 ### Profile Visits 
 
 ![Visitors](https://komarev.com/ghpvc/?username=PaceCodes&color=blueviolet)
