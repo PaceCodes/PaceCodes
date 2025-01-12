@@ -29,20 +29,8 @@ I'm a young energetic and result-oriented software developer with 5 years of exp
         Specialization in field of UI Designing, Reverse Engineering,
         Android/iOS development as well as front-end/back-end development.
       </li>
-
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=PaceCodes&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,dart,c,cpp,csharp,bash,powershell,swift&includeNames=true"></p>
-
-<div align="center">
-	
-[![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/PaceCodes) 
-[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceCodes)
 ### Profile Visits 
 
 ![Visitors](https://komarev.com/ghpvc/?username=PaceCodes&color=blueviolet)
 ---
-
-</details>
-
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=pacecodes&theme=react-dark)
-
