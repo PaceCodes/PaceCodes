@@ -30,7 +30,9 @@ I'm a young energetic and result-oriented software developer with 5 years of exp
         Android/iOS development as well as front-end/back-end development.
       </li>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,dart,c,cpp,csharp,bash,powershell,swift&includeNames=true"></p>
-### Profile Visits 
 
 ![Visitors](https://komarev.com/ghpvc/?username=PaceCodes&color=blueviolet)
+
+
+Note: I have deleted all my repositories as I am changing fields from Computer Science to Theoretical Physics. I apologize for any inconvinence this has caused you. If you have the files, you are free to upload them in your profile with/without any credit. Thank you.
 ---
